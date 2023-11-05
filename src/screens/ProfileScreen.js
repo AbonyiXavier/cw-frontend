@@ -17,7 +17,7 @@ import { useSelector } from 'react-redux';
                   className="d-block w-100"
                   src={photo}
                   alt={`Slide ${index + 1}`}
-                  style={{ width: '100%', height: '980px',  objectFit: 'cover' }}
+                  style={{ width: '100%', height: '800px',  objectFit: 'cover' }}
                 />
               </Carousel.Item>
             ))}

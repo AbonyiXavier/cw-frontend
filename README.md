@@ -53,8 +53,12 @@ Add Features: Extend the functionality by adding new components, pages, or integ
 
 Redux Configuration: Customize the Redux store, actions, and reducers in the src/slices folder based on your requirements.
 
-Contributors
+
+## Recorded demonstration of how to test validations, error messages, API response of the project in postman or swagger docs.
+- [Screencastify Demo Link](https://watch.screencastify.com/v/v2xsNVVyz5VY0QOgLkiR) or 
+- [Google Drive Demo Link](https://drive.google.com/file/d/1vqdqHeXxM-obB0_V0sjXUyDSElgT9duT/view)
 
 # Author 💥:
 
 Francis Nnamdi Abonyi
+

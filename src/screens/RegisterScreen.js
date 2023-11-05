@@ -123,7 +123,7 @@ const RegisterScreen = () => {
         </Form.Group>
 
         <Form.Group className="my-2" controlId="photos">
-          <Form.Label>photos</Form.Label>
+          <Form.Label>Upload Photos (Multiple)</Form.Label>
           <Form.Control
             type="file"
             placeholder="Upload photos"
